@@ -1,5 +1,5 @@
 {
-  "name": "pkg-placeholder",
+  "name": "react-office-preview",
   "type": "module",
   "version": "0.0.0",
   "packageManager": "pnpm@8.7.0",
@@ -7,12 +7,12 @@
   "author": "geekris1 <200949970@qq.com>",
   "license": "MIT",
   "funding": "https://github.com/sponsors/geekris1",
-  "homepage": "https://github.com/geekris1/pkg-placeholder#readme",
+  "homepage": "https://github.com/geekris1/react-office-preview#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/geekris1/pkg-placeholder.git"
+    "url": "git+https://github.com/geekris1/react-office-preview.git"
   },
-  "bugs": "https://github.com/geekris1/pkg-placeholder/issues",
+  "bugs": "https://github.com/geekris1/react-office-preview/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
